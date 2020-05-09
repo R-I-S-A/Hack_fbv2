@@ -16,7 +16,7 @@ $ python2 hack_fbv2.py
 ----------------------------------------------------------------
 
 Bingung? yuk lihat Videonya di Youtube:
-----> https://youtu.be/Ib6SWQL0Hjk
+----> https://youtu.be/NLQNd9n83Js
 
 
 Thanks to :
