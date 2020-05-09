@@ -15,8 +15,8 @@ $ cd Hack_fbv2
 $ python2 hack_fbv2.py
 ----------------------------------------------------------------
 
-Cara berbentuk Video bisa melihat di Channel saya :
-----> https://youtu.be/mubyGz1NLj0
+Bingung? yuk lihat Videonya di Youtube:
+----> https://youtu.be/Ib6SWQL0Hjk
 
 
 Thanks to :
